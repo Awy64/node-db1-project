@@ -7,7 +7,9 @@
     },
     "repository": "https://github.com/LambdaSchool/node-db1-project",
     "dependencies": {
+        "@hapi/joi": "^17.1.1",
         "express": "^4.17.1",
+        "joi": "^17.1.1",
         "knex": "^0.21.2",
         "pg": "^8.3.0",
         "sqlite3": "^5.0.0"
